@@ -1,4 +1,4 @@
-# Hi, I'm Fowzy
+# Welcome to Fowzy's Blog!
 
 I build things, break it then fix it.
 
