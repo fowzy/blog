@@ -1,16 +1,25 @@
-body {
-  max-width: 720px;
-  margin: auto;
-  font-size: 18px;
-}
-.site-logo img {
-  border-radius: 50%;
-  width: 140px;
-}
-.site-description {
-  margin-top: -6px;
-}
+---
+---
+
+@import "{{ site.theme }}";
+
+/* remove footer */
 footer {
   display: none;
+}
+
+/* tighten profile spacing */
+.site-logo {
+  margin-bottom: 6px;
+}
+
+.site-description {
+  margin-top: 0;
+}
+
+/* round image */
+.site-logo img {
+  border-radius: 50%;
+  width: 120px;
 }
 
