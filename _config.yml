@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-#title: "Fowzy"
+title: "Fowzy"
 description: "Security Researcher • Software Engineer • Tech Wizard"
 sass:
   style: compressed
