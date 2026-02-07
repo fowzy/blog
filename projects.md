@@ -1,5 +1,6 @@
 
 # PROJECTS
+
 ## PEXELINK
 Price Management Solution for retail stores. (June, 2025)
 [Live](https://pexelink.com/)
