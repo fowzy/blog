@@ -1,4 +1,4 @@
-# Hi, I'm Fowzy Alsaud
+# Hi, I'm Fowzy
 
 I build things and break it.
 
