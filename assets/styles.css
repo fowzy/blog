@@ -3,6 +3,9 @@ body {
   margin: auto;
   font-size: 18px;
 }
+.site-logo {
+  margin-bottom: 8px; /* smaller gap */
+}
 .site-logo img {
   border-radius: 50%;
   width: 140px;
