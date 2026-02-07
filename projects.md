@@ -4,7 +4,7 @@ Price Management Solution for retail stores. (June, 2025)
 
 ## FFP
 Developed a FastAPI web app with a user-friendly UI that automates photo retrieval by manipulating URLs to bypass access restrictions and highlight web security flaws. (Dec, 2022)
-[Github]([https://pexelink.com](https://github.com/fowzy/ffp)
+[Github](https://github.com/fowzy/ffp)
 
 ## MARIO 2
 First-place award-winning "Mario 2 - Electric Boogaloo," a 5-in-1 game built with GDevelop and JavaScript, featuring a PacMan-inspired mini-game. (March, 2021)
