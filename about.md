@@ -1,3 +1,7 @@
+---
+layout: page
+title: About
+---
 # About 
 Skilled software engineer.
  
