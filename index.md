@@ -2,8 +2,7 @@
 
 I build things and break it.
 
-→ [HTB](/htb/htb.md)
+→ [HTB](/htb/index.md)
 → [Projects](/projects)
 → [About](/about)
 → [GitHub](https://github.com/fowzy)
-
