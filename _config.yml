@@ -1,3 +1,5 @@
 theme: minimal
 title: Fowzy Alsaud
 description: Security Researcher • Developer • Designer
+sass:
+  style: compressed
