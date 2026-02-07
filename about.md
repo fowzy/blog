@@ -4,7 +4,7 @@ title: About
 # About 
 I hack, I code, I fix broken tech all day.
 
-![Broken Laptop](https://fowzy.github.io/assets/broken.png)
+![Broken Laptop](../assets/images/broken.png)
 
  
  — [Github](https://github.com/fowzy)
