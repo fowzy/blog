@@ -3,12 +3,12 @@ body {
   margin: auto;
   font-size: 18px;
 }
-.site-logo {
-  margin-bottom: 12px;
-}
 .site-logo img {
   border-radius: 50%;
   width: 140px;
+}
+.site-description {
+  margin-top: -6px;
 }
 footer {
   display: none;
