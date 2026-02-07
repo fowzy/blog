@@ -4,7 +4,7 @@ body {
   font-size: 18px;
 }
 .site-logo {
-  margin-bottom: 8px; /* smaller gap */
+  margin-bottom: 12px;
 }
 .site-logo img {
   border-radius: 50%;
