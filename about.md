@@ -2,7 +2,7 @@
 title: About
 ---
 # About 
-Skilled software engineer.
+Skilled software engineer and 
  
  — [Github](https://github.com/fowzy)
  — [Linkedin](https://www.linkedin.com/in/fowzys/)
