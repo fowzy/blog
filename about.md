@@ -3,7 +3,7 @@ title: About
 ---
 # About 
 I hack, I code, I fix broken tech all day.
- ![[broken.png]]
+ ![[assets/broken.png]]
  
  — [Github](https://github.com/fowzy)
  — [Linkedin](https://www.linkedin.com/in/fowzys/)
