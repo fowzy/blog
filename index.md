@@ -1,6 +1,6 @@
 # Hi, I'm Fowzy Alsaud
 
-I build things and break things.
+I build things and break it.
 
 → [Projects](/projects)
 → [About](/about)
