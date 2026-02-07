@@ -2,7 +2,7 @@
 title: About
 ---
 # About 
-Skilled software engineer and 
+I hack, I code, I fix broken tech all day.
  
  — [Github](https://github.com/fowzy)
  — [Linkedin](https://www.linkedin.com/in/fowzys/)
