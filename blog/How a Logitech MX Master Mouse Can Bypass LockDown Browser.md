@@ -1,7 +1,7 @@
 ---
 title: How a Logitech MX Master Mouse Can Bypass LockDown Browser
 ---
-How a Logitech MX Master Mouse Can Bypass LockDown Browser
+# How a Logitech MX Master Mouse Can Bypass LockDown Browser
 _A small experiment showing how hardware software integrations can unintentionally bypass exam browser restrictions._
 
 Recently I came across something interesting while experimenting with tools on my system. With the new semester starting and lockdown exams becoming common again, I was exploring how some security tools behave in different environments.
